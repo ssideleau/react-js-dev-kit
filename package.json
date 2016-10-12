@@ -1,0 +1,32 @@
+{
+  "name": "react-js-dev-kit",
+  "version": "0.0.1",
+  "description": "Use this repo as boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssideleau/react-js-dev-kit.git"
+  },
+  "keywords": [
+    "reactjs",
+    "js",
+    "travis",
+    "cucumber"
+  ],
+  "author": "Samuel Sideleau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssideleau/react-js-dev-kit/issues"
+  },
+  "homepage": "https://github.com/ssideleau/react-js-dev-kit#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
